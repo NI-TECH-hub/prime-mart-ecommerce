@@ -129,4 +129,5 @@ Contributions, bug reports, and suggestions are welcome!
 Built and maintained by **Nikhil Chinchore**
 
 ***
+[ecommerce-er-diagram.pdf](https://github.com/user-attachments/files/21948944/ecommerce-er-diagram.pdf)
 
